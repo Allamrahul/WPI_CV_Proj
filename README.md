@@ -10,6 +10,10 @@ We will be using this repo to document our work on monocular depth estimation us
 
 # Approach
 
+# Current goal
+
+Pick the network available online, dry run and see if its able to generate depth maps.
+
 # Training
 
 # Validation
