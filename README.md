@@ -1,10 +1,20 @@
-# WPI_CV_Proj
+# Monocular depth map generation using CNN
 
-To be filled in regards with the topic, the proposal and the implementation:
+We will be using this repo to document our work on monocular depth estimation using CNN's. We will be using the NYU depth v2 dataset to train our model.
 
-Topics:
-1. Depth perception
+# Dataset
 
+**Official** : https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html
+
+**Preprocessed NYU Depth V2 dataset in HDF5 format**: http://datasets.lids.mit.edu/fastdepth/data/nyudepthv2.tar.gz
+
+# Approach
+
+# Training
+
+# Validation
+
+# Results
 
 # References 
 https://paperswithcode.com/task/monocular-depth-estimation/codeless?page=2
