@@ -4,7 +4,8 @@ We will be using this repository to document our code and our work on RBE 549 te
 
 # Project Goal
 
-The goal is to experiment using deep learning networks to estimate depth from a single 2D image i.e Monocular depth estimation. ([Presentation](https://docs.google.com/presentation/d/1yNSTPprhrbW5_khGIaUVqMtV5pKp03kS/edit?usp=sharing&ouid=101006201346393805220&rtpof=true&sd=true))
+The goal is to experiment using deep learning networks to estimate depth from a single 2D image i.e Monocular depth estimation. ([Presentation](https://docs.google.com/presentation/d/1yNSTPprhrbW5_khGIaUVqMtV5pKp03kS/edit?usp=sharing&ouid=101006201346393805220&rtpof=true&sd=true)) ([Report](https://drive.google.com/file/d/15uoRGXlTjXUBrs0wRLHMpOLanCR1NrKQ/view?usp=sharing)) 
+
 
 # Dataset
 
