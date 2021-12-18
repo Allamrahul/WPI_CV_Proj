@@ -6,6 +6,8 @@ We will be using this repository to document our code and our work on RBE 549 te
 
 The goal is to experiment using deep learning networks to estimate depth from a single 2D image i.e Monocular depth estimation. ([Presentation](https://docs.google.com/presentation/d/1yNSTPprhrbW5_khGIaUVqMtV5pKp03kS/edit?usp=sharing&ouid=101006201346393805220&rtpof=true&sd=true)) ([Report](https://drive.google.com/file/d/15uoRGXlTjXUBrs0wRLHMpOLanCR1NrKQ/view?usp=sharing)) 
 
+![DL](https://user-images.githubusercontent.com/18104407/146620940-b8072f6b-8e34-42ff-95d9-2e3963bcd312.png)
+
 
 # Dataset
 
