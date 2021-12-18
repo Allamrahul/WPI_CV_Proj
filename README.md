@@ -1,4 +1,4 @@
-# Monocular Dense Depth Map estiamtion using CNN
+# Monocular Dense Depth Map Estimation using CNN
 
 We will be using this repository to document our code and our work on RBE 549 term project at WPI, MA.
 
