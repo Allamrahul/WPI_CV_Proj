@@ -112,3 +112,5 @@ In the depth maps generated above in figure 8, the objects closest to the vantag
 * silberman. (n.d.). Retrieved from https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html
 
 * Wonka, I. A. (n.d.). High Quality Monocular Depth Estimation via Transfer Learning. CoRR. Retrieved from http://arxiv.org/abs/1812.11941
+
+* https://github.com/dwofk/fast-depth
